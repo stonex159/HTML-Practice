@@ -23,6 +23,7 @@ Footer {
  background-color: #23272a;
  display: flex;
  justify-content: space-evenly;
+ bottom: 0;
 }
 
 /* .column{
