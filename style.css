@@ -27,8 +27,6 @@ Footer {
  background-color: #23272a;
  display: flex;
  justify-content: space-evenly;
- position: fixed;
- bottom: 0;
 }
 
 /* .column{
