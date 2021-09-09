@@ -28,7 +28,7 @@ Footer {
  display: flex;
  justify-content: space-evenly;
  position: fixed;
- height: 0;
+ bottom: 0;
 }
 
 /* .column{
