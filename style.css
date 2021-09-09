@@ -22,7 +22,6 @@ h2 {
 Footer {
  display: flex;
  justify-content: space-evenly;
- bottom: 0;
 }
 
 a {
