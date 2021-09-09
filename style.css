@@ -2,13 +2,13 @@
 
 html {
  background-color: #2c2f33;
+ color: #7289da;
  font-family: "EB Garamond", Arial, Verdana, sans-serif;
  font-size: 16px;
  line-height: 1.5;
 }
 
 main {
- color: #ffffff;
  text-align: center;
  size: 500px;
 }
