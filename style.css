@@ -26,3 +26,7 @@ Footer {
  justify-content: space-evenly;
  position: bottom;
 }
+
+.column{
+ flex: 50%;
+}
