@@ -5,7 +5,7 @@ body {
  line-height: 1.5;
 }
 
-main (
+main {
  color: Black;
  text-align: center;
  size: 500px;
@@ -22,15 +22,7 @@ h2 {
 }
 
 Footer {
- text-align: center;
- size: 500px;
- position: bottom;
-}
-
-.row {
  display: flex;
-}
-
-.column {
- flex: 50%; 
+ justify-content: space-evenly;
+ position: bottom;
 }
